@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "74b1dea8-dc92-4101-b00c-5bcdd15f58ea": {
+      "ProjectGuid": "74b1dea8-dc92-4101-b00c-5bcdd15f58ea",
+      "DisplayName": "Flamingo",
+      "ColorIndex": 0
+    },
+    "6e919beb-b19a-42fb-bc8e-49c1019f0559": {
+      "ProjectGuid": "6e919beb-b19a-42fb-bc8e-49c1019f0559",
+      "DisplayName": "FlamingoTest",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e7fab4b8-db99-49d2-8bb1-c9ad398766c2": {
+      "ProjectGuid": "e7fab4b8-db99-49d2-8bb1-c9ad398766c2",
+      "DisplayName": "Flamingo",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
